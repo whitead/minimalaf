@@ -5,7 +5,7 @@ Install:
 
 ```bash
 pip install -r requirements.txt
-modal serve af.py
+modal deploy af.py
 ```
 
 

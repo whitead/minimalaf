@@ -27,4 +27,4 @@ with open("results.zip", "wb") as f:
 
 ## Copyright
 
-All copyright is waived.
+CC0. No Rights Reserved

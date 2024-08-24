@@ -14,7 +14,7 @@ Usage from python (also in `run.py`):
 import modal
 
 fasta = """\
-> A chain
+>A chain
 MTEYKLVVVGAGGVGKSALTIQLIQNHKLRKLNPPDESGPGCMNCKCVIS"""
 
 af = modal.Function.lookup("minimalaf", "fold")
